@@ -1,0 +1,85 @@
+*{
+	padding:0;
+	margin:0;
+	
+}
+
+.wrap{
+	width:1200px;
+	height: auto;
+	/* background: green; */
+	margin:auto;
+	overflow: hidden;
+}
+
+.parents {
+    width: auto;
+    /* height: 322px; */
+    /* background: red; */
+    margin-left: -3.33%;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.son {
+    float: left;
+    width: 30%;
+    height: auto;
+    /* background: yellow; */
+    margin-left: 3.33%;
+}
+
+img{
+	max-width:100%;
+	
+}
+.son img {
+    margin-bottom: 10px;
+}
+
+.son h2 {
+    font-size: 28px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-family: fantasy;
+}
+
+.son p {
+    font-size: 20px;
+    text-align: justify;
+    line-height: 125%;
+    margin: 0px 6px;
+}
+.bangladesh {
+    width: auto;
+    /* height: 250px; */
+    /* background: #03A9F4; */
+    margin-left: -2%;
+    overflow: hidden;
+}
+.division {
+    width: 23%;
+    height: auto;
+    /* background: #800995; */
+    margin-left: 2%;
+    float: left;
+}
+.division h2 {
+    font-size: 26px;
+    color: red;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+}
+
+.bangladesh img {
+    margin-bottom: 13px;
+}
+.division p {
+    font-size: 17px;
+}
+
+.division p {
+    font-size: 17px;
+    text-align: justify;
+    line-height: 23px;
+}
